@@ -1,2 +1,3 @@
-# docs-driverworks-proxyprotocol-amplifier
- Amplifier Proxy SDK documentation
+# Driverworks Proxy/Protocol Guide - amplifier
+
+Amplifier Proxy SDK documentation
