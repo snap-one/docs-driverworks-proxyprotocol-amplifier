@@ -7,4 +7,4 @@ The Amplifier Proxies have been enhanced to support the ability to display audio
 
 
 
-[1]:	https://crispy-adventure-63e7p53.pages.github.io/#license-copyright-and-trademark
+[1]:	https://snap-one.github.io/docs-driverworks-proxyprotocol-amplifier/#license-copyright-and-trademark
